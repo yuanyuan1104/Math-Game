@@ -1,0 +1,18 @@
+.error1{
+    color:#ba1b4c;
+}
+.error2 {
+    color: red;
+    font-weight:bold;
+}
+
+.correct {
+    color: green;
+    font-weight:bold;
+}
+hr{
+    width:90%;
+}
+#submit{
+    margin-top:20px;
+}
